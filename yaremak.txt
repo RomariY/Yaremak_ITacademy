@@ -1,0 +1,4 @@
+Книга по GIT (Українською)
+https://git-scm.com/book/uk/v2/
+
+Interesting book about version control system
